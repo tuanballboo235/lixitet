@@ -7,7 +7,7 @@ const CONFIG = {
     desc: 'Không trả lời mà thoát thì kiếp này làm ny tớ =))) ',
     btnYes: 'Đc thuiii <33',
     btnNo: 'Không, đừng mơ :))',
-    question:'Cậu muốn nhắn gì cho tớ khum ??? \nViết ở dưới nhé',
+    question:'Lì xì bằng lời chúc là đc rùi,C ậu muốn nhắn gì cho tớ khum ??? \nViết ở dưới nhé',
     btnReply: 'Gửi',
     reply: 'Tớ vẫn khó',
     mess: 'Tớ cảm ơn 🥰. Yêu c nhiều ạ =((((',
